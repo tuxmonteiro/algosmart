@@ -1,4 +1,4 @@
-algosmart
+Algosmart
 =========
 
-AlgoSmart
+Projeto AlgoSmart
